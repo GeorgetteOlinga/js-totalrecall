@@ -1,4 +1,4 @@
-/* 
+/* must know
 We create the variables using: let, var, const
 
 1. How do we assign a value to a variable?
@@ -331,7 +331,7 @@ console.log(nestedArray[0][0], nestedArray[1][1], nestedArray[2][1]);
 //============================
 //D. Change values
 //========================
-//Given the following array 
+//Given the following array :
 
 const ourClass = ["Salty", "Zoom", "Sardine", "Slack", "Github"]
 
@@ -504,7 +504,7 @@ thomsCloset[1][2]='Footie Pajamas'
 // ==================================================
 
 // =========================================
-// A. printGreeting
+// A. printGreeting: funtions
 // =========================================
 // Do you think you could write a function called printGreetingwith a parameter name
 // that returns a greeting with the argument interpolated into the greeting?
@@ -642,7 +642,7 @@ user.age++;
 user.location = 'Columbus';
 // console.log(user);
 
-// D. Shopaholic!
+// D. Shopaholic! try it self
 // Our user has purchased an item! They have purchased some "carbohydrates". Using .push(), add the string "carbohydrates" to the purchasedarray.
 // -- when i want to refer to the purchased array in user, i type user.purchased
 // console.log(user.purchased);
@@ -740,3 +740,4 @@ function oldAndLoud(person) {
 oldAndLoud(user);
 console.log('This is the user after the function')
 console.log(user);
+// all
