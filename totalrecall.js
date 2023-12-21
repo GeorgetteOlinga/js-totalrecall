@@ -278,7 +278,7 @@ console.log(nestedArray[0][2]);
 // 'one'
 console.log(nestedArray[0][0]);
 
-// 2
+// 
 console.log(nestedArray[1][1]);
 
 // 'B'
